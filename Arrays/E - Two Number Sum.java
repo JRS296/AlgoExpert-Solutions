@@ -1,4 +1,6 @@
-import java.util.*;
+package Arrays;
+
+import java.util.HashSet;
 
 class Program {
     public static int[] twoNumberSum(int[] array, int targetSum) {
